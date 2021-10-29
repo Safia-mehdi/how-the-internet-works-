@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(96, 112, 112);
+}
+h1 {
+    color: lightgray;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: lightgray;
+    font-family: sans-serif;
+}
+p {
+    color: lightgray;
+    font-family: sans-serif;
+    line-height: 22px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+ul,
+li {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section_style {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
